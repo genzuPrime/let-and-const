@@ -6,3 +6,4 @@ Var is hoisted, scoped to the immediate function, and can be redeclared and reas
 
 Const cannot be redeclared or reassigned. You can reassign let.
 
+Hoisting is the default behavior of JavaScript where variables are initialized at the top of the scope they are declared in. Var can be accessed before it is defined and will be undefined, but let and const cannot.
