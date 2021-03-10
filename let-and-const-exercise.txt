@@ -1,0 +1,8 @@
+const PI = 3.14;
+
+Var is scoped to the immediate function, may be redeclared and is hoisted, whereas let is scoped to the immediate block and my not be redeclared.
+
+Var is hoisted, scoped to the immediate function, and can be redeclared and reassigned, whereas const is scoped to the immediate block and cannot be reassigned or redeclared.
+
+Const cannot be redeclared or reassigned. You can reassign let.
+
